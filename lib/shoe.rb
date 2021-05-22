@@ -6,11 +6,6 @@ class Shoe
   
   def initialize(brand = nil)
     @brand = brand
-    @condition = "new"
-    @color = color 
-    @size = @size 
-    @material = nil
-    @condition = nil
   end
   
   def cobble 
